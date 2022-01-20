@@ -1,6 +1,6 @@
-# GUN Chat Dapp Demo
+# GUN Chat Dapp
 
-A decentralized chat app built with [GUN](https://gun.eco/). 
+> A decentralized chat app built with GUN.js and Svelte.
 
 - Try the [Live Demo](https://gun-chat-dapp.web.app/)
 
