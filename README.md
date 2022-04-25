@@ -1,11 +1,20 @@
-# GUN Chat Dapp
+## GUN Chat Dapp
 
-> A decentralized chat app built with GUN.js and Svelte.
+Decentralized chat application.
 
-- Try the [Live Demo](https://gun-chat-dapp.web.app/)
+> Language: JavaScript \
+> Framework: Svelte \
+> Database: GUN.js
 
-```
-git clone <this-repo>
+[Try the live demo!](https://gun-chat-dapp.web.app/)
+
+### To Run Locally:
+Clone the repository and perform the following command line actions in the root directory:
+
+```bash
 npm install
+# and then
 npm run dev
 ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
